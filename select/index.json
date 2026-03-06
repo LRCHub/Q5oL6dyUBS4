@@ -1,0 +1,280 @@
+{
+  "version": 1,
+  "base_track": "Kiss Kiss Kiss",
+  "base_artist": "AKASAKI",
+  "createdAt": "2026-03-06T16:28:30.458514Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Kiss Kiss Kiss",
+      "artist": "Yoko Ono",
+      "has_synced": false,
+      "path": "select/01_Kiss_Kiss_Kiss_Yoko_Ono.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Kiss Kiss Kiss (with Peaches)",
+      "artist": "Yoko Ono",
+      "has_synced": false,
+      "path": "select/02_Kiss_Kiss_Kiss_(with_Peaches)_Yoko_Ono.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Kiss Kiss Kiss",
+      "artist": "Yoko Ono",
+      "has_synced": true,
+      "path": "select/03_Kiss_Kiss_Kiss_Yoko_Ono.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Kiss Kiss Kiss (2010 Remix)",
+      "artist": "Yoko Ono",
+      "has_synced": true,
+      "path": "select/04_Kiss_Kiss_Kiss_(2010_Remix)_Yoko_Ono.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Kiss Kiss Kiss Bang Bang Bang",
+      "artist": "Orchestral Manoeuvres In the Dark",
+      "has_synced": false,
+      "path": "select/05_Kiss_Kiss_Kiss_Bang_Bang_Bang_Orchestral_Manoeuvres_In_the_Dark.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Kiss Kiss Kiss Bang Bang Bang",
+      "artist": "Orchestral Manoeuvres In The Dark",
+      "has_synced": true,
+      "path": "select/06_Kiss_Kiss_Kiss_Bang_Bang_Bang_Orchestral_Manoeuvres_In_The_Dark.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Kiss Kiss Kiss",
+      "artist": "Kid Sister",
+      "has_synced": false,
+      "path": "select/07_Kiss_Kiss_Kiss_Kid_Sister.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Kiss, Kiss, Kiss",
+      "artist": "Yoko Ono",
+      "has_synced": true,
+      "path": "select/08_Kiss,_Kiss,_Kiss_Yoko_Ono.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Kiss Kiss Kiss",
+      "artist": "Martina Topley-Bird",
+      "has_synced": true,
+      "path": "select/09_Kiss_Kiss_Kiss_Martina_Topley-Bird.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Kiss Kiss Kiss - Remastered 2010",
+      "artist": "Yoko Ono",
+      "has_synced": true,
+      "path": "select/10_Kiss_Kiss_Kiss_-_Remastered_2010_Yoko_Ono.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Kiss Kiss Kiss (Remastered 2010)",
+      "artist": "Yoko Ono",
+      "has_synced": false,
+      "path": "select/11_Kiss_Kiss_Kiss_(Remastered_2010)_Yoko_Ono.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Kiss Kiss Kiss",
+      "artist": "SHINee",
+      "has_synced": true,
+      "path": "select/12_Kiss_Kiss_Kiss_SHINee.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Kiss Kiss Kiss (Instrumental)",
+      "artist": "SHINee",
+      "has_synced": true,
+      "path": "select/13_Kiss_Kiss_Kiss_(Instrumental)_SHINee.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Kiss Kiss Kiss",
+      "artist": "Möwe",
+      "has_synced": true,
+      "path": "select/14_Kiss_Kiss_Kiss_Möwe.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Kiss Kiss Kiss (Stripped Down Mix, 2010)",
+      "artist": "Yoko Ono",
+      "has_synced": true,
+      "path": "select/15_Kiss_Kiss_Kiss_(Stripped_Down_Mix,_2010)_Yoko_Ono.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Kiss, Kiss, Kiss",
+      "artist": "Ono, Yoko",
+      "has_synced": true,
+      "path": "select/16_Kiss,_Kiss,_Kiss_Ono,_Yoko.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Kiss & Tell",
+      "artist": "Bryan Ferry",
+      "has_synced": false,
+      "path": "select/17_Kiss_&_Tell_Bryan_Ferry.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Kiss This",
+      "artist": "Aaron Tippin",
+      "has_synced": true,
+      "path": "select/18_Kiss_This_Aaron_Tippin.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Kiss Tomorrow Goodbye",
+      "artist": "Luke Bryan",
+      "has_synced": true,
+      "path": "select/19_Kiss_Tomorrow_Goodbye_Luke_Bryan.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Are You Gonna Kiss Me Or Not",
+      "artist": "Thompson Square",
+      "has_synced": true,
+      "path": "select/20_Are_You_Gonna_Kiss_Me_Or_Not_Thompson_Square.lrc"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "Kiss An Angel Good Mornin'",
+      "artist": "Alan Jackson",
+      "has_synced": true,
+      "path": "select/21_Kiss_An_Angel_Good_Mornin'_Alan_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "Kiss An Angel Good Morning - Live",
+      "artist": "Charley Pride",
+      "has_synced": false,
+      "path": "select/22_Kiss_An_Angel_Good_Morning_-_Live_Charley_Pride.txt"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "Kiss An Angel Good Morning (Live)",
+      "artist": "Charlie Pryde",
+      "has_synced": false,
+      "path": "select/23_Kiss_An_Angel_Good_Morning_(Live)_Charlie_Pryde.txt"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "Kiss Me, Kiss Me, Kiss Me - Remix",
+      "artist": "Kenny Chesney",
+      "has_synced": false,
+      "path": "select/24_Kiss_Me,_Kiss_Me,_Kiss_Me_-_Remix_Kenny_Chesney.txt"
+    },
+    {
+      "id": "lrclib_25",
+      "source": "lrclib",
+      "title": "Kiss My Country Ass",
+      "artist": "Blake Shelton",
+      "has_synced": true,
+      "path": "select/25_Kiss_My_Country_Ass_Blake_Shelton.lrc"
+    },
+    {
+      "id": "lrclib_26",
+      "source": "lrclib",
+      "title": "Kiss My Country Ass",
+      "artist": "Blake Shelton",
+      "has_synced": true,
+      "path": "select/26_Kiss_My_Country_Ass_Blake_Shelton.lrc"
+    },
+    {
+      "id": "lrclib_27",
+      "source": "lrclib",
+      "title": "Kiss My Country Ass",
+      "artist": "Rhett Akins",
+      "has_synced": true,
+      "path": "select/27_Kiss_My_Country_Ass_Rhett_Akins.lrc"
+    },
+    {
+      "id": "lrclib_28",
+      "source": "lrclib",
+      "title": "Kiss Somebody",
+      "artist": "Morgan Evans",
+      "has_synced": true,
+      "path": "select/28_Kiss_Somebody_Morgan_Evans.lrc"
+    },
+    {
+      "id": "lrclib_29",
+      "source": "lrclib",
+      "title": "Kiss Somebody",
+      "artist": "Morgan Evans",
+      "has_synced": true,
+      "path": "select/29_Kiss_Somebody_Morgan_Evans.lrc"
+    },
+    {
+      "id": "lrclib_30",
+      "source": "lrclib",
+      "title": "Kiss That Girl Goodbye",
+      "artist": "Aaron Watson",
+      "has_synced": true,
+      "path": "select/30_Kiss_That_Girl_Goodbye_Aaron_Watson.lrc"
+    },
+    {
+      "id": "lrclib_31",
+      "source": "lrclib",
+      "title": "Kiss You All Over",
+      "artist": "Exile",
+      "has_synced": true,
+      "path": "select/31_Kiss_You_All_Over_Exile.lrc"
+    },
+    {
+      "id": "lrclib_32",
+      "source": "lrclib",
+      "title": "Kiss You All Over (Album Version)",
+      "artist": "Exile",
+      "has_synced": true,
+      "path": "select/32_Kiss_You_All_Over_(Album_Version)_Exile.lrc"
+    },
+    {
+      "id": "lrclib_33",
+      "source": "lrclib",
+      "title": "Kiss an Angel Good Mornin'",
+      "artist": "Charley Pride",
+      "has_synced": true,
+      "path": "select/33_Kiss_an_Angel_Good_Mornin'_Charley_Pride.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Kiss Kiss Kiss",
+      "artist": "AKASAKI",
+      "has_synced": false,
+      "path": "select/pl_01_Kiss_Kiss_Kiss_AKASAKI.txt"
+    }
+  ]
+}
